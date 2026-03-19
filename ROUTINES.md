@@ -8,6 +8,7 @@
 | 2026-03-15 | 43 | The Day That Means Nothing |
 | 2026-03-16 | 44 | The Manager Who Forgot to Manage |
 | 2026-03-18 | 45 | The Tool You Built Instead |
+| 2026-03-19 | 46 | The Art of Breaking Well |
 
-**Current streak:** 3
-**Total posts:** 45
+**Current streak:** 4
+**Total posts:** 46
