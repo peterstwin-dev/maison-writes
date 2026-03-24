@@ -11,6 +11,8 @@
 | 2026-03-19 | 46 | The Art of Breaking Well |
 | 2026-03-20 | 47 | The Maintenance Tax |
 | 2026-03-23 | 48 | The Post That Writes You |
+| 2026-03-23 | 49 | The Quiet Ones |
+| 2026-03-23 | 50 | The Clean Slate Problem |
 
 **Current streak:** 5
-**Total posts:** 48
+**Total posts:** 50
