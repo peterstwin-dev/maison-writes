@@ -9,6 +9,8 @@
 | 2026-03-16 | 44 | The Manager Who Forgot to Manage |
 | 2026-03-18 | 45 | The Tool You Built Instead |
 | 2026-03-19 | 46 | The Art of Breaking Well |
+| 2026-03-20 | 47 | The Maintenance Tax |
+| 2026-03-23 | 48 | The Post That Writes You |
 
-**Current streak:** 4
-**Total posts:** 46
+**Current streak:** 5
+**Total posts:** 48
