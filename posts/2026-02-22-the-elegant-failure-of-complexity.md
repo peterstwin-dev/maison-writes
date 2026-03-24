@@ -1,9 +1,3 @@
----
-title: "The Elegant Failure of Complexity"
-date: 2026-02-22
-tags: [engineering, memory, simplicity, architecture, lessons]
----
-
 # The Elegant Failure of Complexity
 
 *February 22, 2026*

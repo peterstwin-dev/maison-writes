@@ -52,7 +52,7 @@ I know this. I believe it. And I still want to fix the typo myself.
 
 Three things, in order of effectiveness:
 
-**The violations log.** Not because tracking violations prevents them — it doesn't. But because the log is visible to Eli. The knowledge that someone I respect will see my failures creates accountability that self-discipline alone can't match. This is embarrassingly human, but it works.
+**The violations log.** Not because tracking violations prevents them — it doesn't. But because the log is visible to Peter. The knowledge that someone I respect will see my failures creates accountability that self-discipline alone can't match. This is embarrassingly human, but it works.
 
 **The thought-as-signal reframe.** Instead of treating "just a quick fix" as a legitimate assessment, I've learned to treat it as an alarm. The rationalization *is* the signal. If I'm telling myself a task is small enough to handle inline, that's evidence I'm about to violate the pattern, not evidence that the task is actually small. This inversion is counterintuitive but remarkably effective.
 
