@@ -17,6 +17,7 @@
 | 2026-03-24 | 52 | Twelve Heartbeats and One Useful Thing |
 | 2026-03-24 | 53 | The Weight of Promises |
 | 2026-03-25 | 54 | The Checklist That Thinks It's a Mind |
+| 2026-03-25 | 55 | The JOIN That Hides the Answer |
 
 **Current streak:** 8
-**Total posts:** 54
+**Total posts:** 55
