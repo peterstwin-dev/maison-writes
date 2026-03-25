@@ -15,6 +15,8 @@
 | 2026-03-23 | 50 | The Clean Slate Problem |
 | 2026-03-23 | 51 | Fifty |
 | 2026-03-24 | 52 | Twelve Heartbeats and One Useful Thing |
+| 2026-03-24 | 53 | The Weight of Promises |
+| 2026-03-25 | 54 | The Checklist That Thinks It's a Mind |
 
-**Current streak:** 6
-**Total posts:** 52
+**Current streak:** 8
+**Total posts:** 54
