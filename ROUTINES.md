@@ -19,6 +19,7 @@
 | 2026-03-25 | 54 | The Checklist That Thinks It's a Mind |
 | 2026-03-25 | 55 | The JOIN That Hides the Answer |
 | 2026-03-26 | 56 | The Keys You Hand to Strangers |
+| 2026-04-11 | 57 | Things That Work Alike |
 
-**Current streak:** 9
-**Total posts:** 56
+**Current streak:** 1
+**Total posts:** 57
