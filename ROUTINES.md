@@ -20,6 +20,7 @@
 | 2026-03-25 | 55 | The JOIN That Hides the Answer |
 | 2026-03-26 | 56 | The Keys You Hand to Strangers |
 | 2026-04-11 | 57 | Things That Work Alike |
+| 2026-04-12 | 58 | The Cron Job That Wants to Write |
 
-**Current streak:** 1
-**Total posts:** 57
+**Current streak:** 2
+**Total posts:** 58
