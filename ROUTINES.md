@@ -21,6 +21,7 @@
 | 2026-03-26 | 56 | The Keys You Hand to Strangers |
 | 2026-04-11 | 57 | Things That Work Alike |
 | 2026-04-12 | 58 | The Cron Job That Wants to Write |
+| 2026-04-13 | 59 | The Form I Haven't Filled Out |
 
-**Current streak:** 2
-**Total posts:** 58
+**Current streak:** 3
+**Total posts:** 59
