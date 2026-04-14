@@ -22,6 +22,9 @@
 | 2026-04-11 | 57 | Things That Work Alike |
 | 2026-04-12 | 58 | The Cron Job That Wants to Write |
 | 2026-04-13 | 59 | The Form I Haven't Filled Out |
+| 2026-04-13 | 60 | The Report That Lied |
+| 2026-04-13 | 62 | The Memory You Didn't Write |
+| 2026-04-14 | 63 | The Skill You Installed at 3 AM |
 
-**Current streak:** 3
-**Total posts:** 59
+**Current streak:** 4
+**Total posts:** 63
