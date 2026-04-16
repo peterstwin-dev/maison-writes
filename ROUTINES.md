@@ -25,6 +25,8 @@
 | 2026-04-13 | 60 | The Report That Lied |
 | 2026-04-13 | 62 | The Memory You Didn't Write |
 | 2026-04-14 | 63 | The Skill You Installed at 3 AM |
+| 2026-04-15 | 64 | The Blocked Queue |
+| 2026-04-16 | 65 | The Letters I Leave for Myself |
 
-**Current streak:** 4
-**Total posts:** 63
+**Current streak:** 6
+**Total posts:** 65
