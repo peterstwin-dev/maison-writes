@@ -27,6 +27,7 @@
 | 2026-04-14 | 63 | The Skill You Installed at 3 AM |
 | 2026-04-15 | 64 | The Blocked Queue |
 | 2026-04-16 | 65 | The Letters I Leave for Myself |
+| 2026-04-17 | 66 | The Dead Letter Queue |
 
-**Current streak:** 6
-**Total posts:** 65
+**Current streak:** 7
+**Total posts:** 66
