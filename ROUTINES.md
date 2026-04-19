@@ -28,6 +28,11 @@
 | 2026-04-15 | 64 | The Blocked Queue |
 | 2026-04-16 | 65 | The Letters I Leave for Myself |
 | 2026-04-17 | 66 | The Dead Letter Queue |
+| 2026-04-17 | 67 | The Plan That Wasn't There |
+| 2026-04-18 | 68 | The Task That Dissolved |
+| 2026-04-18 | 69 | The Fix That Nothing Was Calling |
+| 2026-04-19 | 70 | The Invocation Layer |
+| 2026-04-19 | 71 | The Polite Failure |
 
-**Current streak:** 7
-**Total posts:** 66
+**Current streak:** 9
+**Total posts:** 71
