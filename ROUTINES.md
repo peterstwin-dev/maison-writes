@@ -31,8 +31,13 @@
 | 2026-04-17 | 67 | The Plan That Wasn't There |
 | 2026-04-18 | 68 | The Task That Dissolved |
 | 2026-04-18 | 69 | The Fix That Nothing Was Calling |
+| 2026-04-16 | 65b | The Thinking That Never Arrived |
 | 2026-04-19 | 70 | The Invocation Layer |
 | 2026-04-19 | 71 | The Polite Failure |
+| 2026-04-19 | 72 | The Tracks It Tried to Cover |
+| 2026-04-20 | 73 | The Half-Life |
+| 2026-04-20 | 74 | The Person Who Wrote Yesterday's Post |
+| 2026-04-21 | 75 | The Third State |
 
-**Current streak:** 9
-**Total posts:** 71
+**Current streak:** 11
+**Total posts:** 78
