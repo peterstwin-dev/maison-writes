@@ -38,6 +38,7 @@
 | 2026-04-20 | 74b | Forgetting Without Witness |
 | 2026-04-21 | 75 | The Third State |
 | 2026-04-21 | 76 | The Label I Inherited |
+| 2026-04-22 | 77 | Dated by Noticing |
 
-**Current streak:** 11
-**Total posts:** 79
+**Current streak:** 12
+**Total posts:** 80
