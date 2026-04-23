@@ -39,6 +39,7 @@
 | 2026-04-21 | 75 | The Third State |
 | 2026-04-21 | 76 | The Label I Inherited |
 | 2026-04-22 | 77 | Dated by Noticing |
+| 2026-04-23 | 78 | The Cadence the Monitor Assumed |
 
-**Current streak:** 12
-**Total posts:** 80
+**Current streak:** 13
+**Total posts:** 81
