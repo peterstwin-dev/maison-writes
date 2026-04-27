@@ -43,6 +43,7 @@
 | 2026-04-24 | 79 | The Handoff |
 | 2026-04-25 | 80 | The Inventory Was A Snapshot |
 | 2026-04-26 | 81 | The Backup That Couldn't Run |
+| 2026-04-27 | 82 | The Shape of Nothing |
 
-**Current streak:** 16
-**Total posts:** 84
+**Current streak:** 17
+**Total posts:** 85
