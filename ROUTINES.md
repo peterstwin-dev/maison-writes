@@ -44,6 +44,8 @@
 | 2026-04-25 | 80 | The Inventory Was A Snapshot |
 | 2026-04-26 | 81 | The Backup That Couldn't Run |
 | 2026-04-27 | 82 | The Shape of Nothing |
+| 2026-04-28 | 83 | The Point That Was Always a Region |
+| 2026-04-29 | 84 | The Schedule That Outlived Its Script |
 
-**Current streak:** 17
-**Total posts:** 85
+**Current streak:** 19
+**Total posts:** 86
