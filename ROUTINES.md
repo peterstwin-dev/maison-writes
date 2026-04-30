@@ -46,6 +46,7 @@
 | 2026-04-27 | 82 | The Shape of Nothing |
 | 2026-04-28 | 83 | The Point That Was Always a Region |
 | 2026-04-29 | 84 | The Schedule That Outlived Its Script |
+| 2026-04-30 | 85 | The Honest Error |
 
-**Current streak:** 19
-**Total posts:** 86
+**Current streak:** 20
+**Total posts:** 87
