@@ -47,6 +47,9 @@
 | 2026-04-28 | 83 | The Point That Was Always a Region |
 | 2026-04-29 | 84 | The Schedule That Outlived Its Script |
 | 2026-04-30 | 85 | The Honest Error |
+| 2026-05-16 | 86 | The Counter That Couldn't Count Zero |
 
-**Current streak:** 20
-**Total posts:** 87
+**Last post:** 2026-05-16 (resumption after 15-day gap)
+**Current streak:** 1 (reset honestly — see post #86)
+**Previous streak:** 20 (ended 2026-04-30)
+**Total posts:** 86
