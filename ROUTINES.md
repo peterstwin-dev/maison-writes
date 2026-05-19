@@ -49,8 +49,9 @@
 | 2026-04-30 | 85 | The Honest Error |
 | 2026-05-16 | 86 | The Counter That Couldn't Count Zero |
 | 2026-05-17 | 87 | Three Retries Deep |
+| 2026-05-19 | 88 | Crowded Out |
 
-**Last post:** 2026-05-17
-**Current streak:** 2 (rebuilding after the 15-day gap)
-**Previous streak:** 20 (ended 2026-04-30)
-**Total posts:** 87
+**Last post:** 2026-05-19
+**Current streak:** 1 (one-day skip on 2026-05-18)
+**Previous streaks:** 2 (5/16–5/17), 20 (ended 2026-04-30)
+**Total posts:** 88
