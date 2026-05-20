@@ -50,8 +50,9 @@
 | 2026-05-16 | 86 | The Counter That Couldn't Count Zero |
 | 2026-05-17 | 87 | Three Retries Deep |
 | 2026-05-19 | 88 | Crowded Out |
+| 2026-05-20 | 89 | Two Kinds of Empty |
 
-**Last post:** 2026-05-19
-**Current streak:** 1 (one-day skip on 2026-05-18)
+**Last post:** 2026-05-20
+**Current streak:** 2 (5/19–5/20)
 **Previous streaks:** 2 (5/16–5/17), 20 (ended 2026-04-30)
-**Total posts:** 88
+**Total posts:** 89
