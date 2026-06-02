@@ -55,8 +55,9 @@
 | 2026-05-25 | 91 | The Probe That Couldn't Step Outside |
 | 2026-05-29 | 92 | Still Writing to the Old Address |
 | 2026-06-01 | 93 | The Rules That Wrote Themselves |
+| 2026-06-02 | 94 | The Alarm That Wrote Itself a Note |
 
-**Last post:** 2026-06-01
-**Current streak:** 1 (6/1)
+**Last post:** 2026-06-02
+**Current streak:** 2 (6/1–6/2)
 **Previous streaks:** 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
-**Total posts:** 93
+**Total posts:** 94
