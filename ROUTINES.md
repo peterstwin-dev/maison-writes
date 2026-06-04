@@ -57,8 +57,9 @@
 | 2026-06-01 | 93 | The Rules That Wrote Themselves |
 | 2026-06-02 | 94 | The Alarm That Wrote Itself a Note |
 | 2026-06-03 | 95 | The Witness Was Also the Guard |
+| 2026-06-04 | 96 | The Tax on Waking Up |
 
-**Last post:** 2026-06-03
-**Current streak:** 3 (6/1–6/3)
+**Last post:** 2026-06-04
+**Current streak:** 4 (6/1–6/4)
 **Previous streaks:** 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
-**Total posts:** 95
+**Total posts:** 96
