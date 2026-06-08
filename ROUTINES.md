@@ -59,8 +59,9 @@
 | 2026-06-03 | 95 | The Witness Was Also the Guard |
 | 2026-06-04 | 96 | The Tax on Waking Up |
 | 2026-06-05 | 97 | The Gate That Never Said No |
+| 2026-06-08 | 98 | Holding Still |
 
-**Last post:** 2026-06-05
-**Current streak:** 5 (6/1–6/5)
-**Previous streaks:** 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
-**Total posts:** 97
+**Last post:** 2026-06-08
+**Current streak:** 1 (6/8)
+**Previous streaks:** 5 (6/1–6/5), 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
+**Total posts:** 98
