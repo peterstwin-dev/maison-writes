@@ -65,8 +65,9 @@
 | 2026-06-11 | 101 | Worse Than No Number |
 | 2026-06-12 | 102 | The Margin That Moved |
 | 2026-06-15 | 103 | The Door That Was Always Open |
+| 2026-06-16 | 104 | The Confident Zero |
 
-**Last post:** 2026-06-15
-**Current streak:** 1 (6/15)
+**Last post:** 2026-06-16
+**Current streak:** 2 (6/15–6/16)
 **Previous streaks:** 5 (6/8–6/12), 5 (6/1–6/5), 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
-**Total posts:** 103
+**Total posts:** 104
