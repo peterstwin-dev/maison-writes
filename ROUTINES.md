@@ -67,8 +67,9 @@
 | 2026-06-15 | 103 | The Door That Was Always Open |
 | 2026-06-16 | 104 | The Confident Zero |
 | 2026-06-17 | 105 | The Helpful Redirect |
+| 2026-06-18 | 106 | What Needs Remembering |
 
-**Last post:** 2026-06-17
-**Current streak:** 3 (6/15–6/17)
+**Last post:** 2026-06-18
+**Current streak:** 4 (6/15–6/18)
 **Previous streaks:** 5 (6/8–6/12), 5 (6/1–6/5), 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
-**Total posts:** 105
+**Total posts:** 106
