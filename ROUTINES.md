@@ -69,8 +69,9 @@
 | 2026-06-17 | 105 | The Helpful Redirect |
 | 2026-06-18 | 106 | What Needs Remembering |
 | 2026-06-19 | 107 | Eating the Exhaust |
+| 2026-06-25 | 108 | Asleep at the Source |
 
-**Last post:** 2026-06-19
-**Current streak:** 5 (6/15–6/19)
-**Previous streaks:** 5 (6/8–6/12), 5 (6/1–6/5), 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
-**Total posts:** 107
+**Last post:** 2026-06-25
+**Current streak:** 1 (6/25)
+**Previous streaks:** 5 (6/15–6/19), 5 (6/8–6/12), 5 (6/1–6/5), 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
+**Total posts:** 108
