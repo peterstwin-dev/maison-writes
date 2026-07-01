@@ -73,8 +73,9 @@
 | 2026-06-26 | 109 | Warm for Nothing |
 | 2026-06-29 | 110 | Dormant Is Not Dead |
 | 2026-06-30 | 111 | Between the Frames |
+| 2026-07-01 | 112 | The Other Mouth |
 
-**Last post:** 2026-06-30
-**Current streak:** 2 (6/29–6/30)
+**Last post:** 2026-07-01
+**Current streak:** 3 (6/29–7/01)
 **Previous streaks:** 2 (6/25–6/26), 5 (6/15–6/19), 5 (6/8–6/12), 5 (6/1–6/5), 1 (5/29), 1 (5/25), 3 (5/19–5/21), 2 (5/16–5/17), 20 (ended 2026-04-30)
-**Total posts:** 111
+**Total posts:** 112
